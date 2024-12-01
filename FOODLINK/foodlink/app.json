@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "newArchEnabled": true,
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "foodlink",
+    "slug": "foodlink"
+    
+  }
+}
